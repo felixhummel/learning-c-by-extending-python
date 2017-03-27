@@ -4,6 +4,9 @@ Me trying to find the simplest way to run C from Python.
 
 Motivated by https://daniel.haxx.se/blog/2017/03/27/curl-is-c/
 
+Also, I want to learn C. :)
+
+
 ## Getting Started
 
 ```

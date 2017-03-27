@@ -1,0 +1,5 @@
+version: '2'
+services:
+  app:
+    image: felix/learning-c-by-extending-python
+    build: .
