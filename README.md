@@ -1,0 +1,2 @@
+- https://docs.python.org/3/extending/extending.html
+- https://en.wikibooks.org/wiki/Python_Programming/Extending_with_C
